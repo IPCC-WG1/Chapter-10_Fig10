@@ -1,5 +1,6 @@
 OBSERVED AND PROJECTED CHANGES IN AUSTRAL SUMMER PRECIPITATION
 ==============================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6787487.svg)](https://doi.org/10.5281/zenodo.6787487)
 
 Figure number: Figure 10.10
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 10
